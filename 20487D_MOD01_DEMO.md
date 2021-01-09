@@ -25,19 +25,24 @@
 
 5. Review the items in the pane on the left side of the screen and understand the different services that you can manage with the Azure portal.
 6. On the left side of the screen, click **+ Create a resource**, and then click **Web App**. The **App Name** and **Resource Group** boxes and **App Service Plan/Location** appear on the right side of the screen.
-
 ![20487D_MOD01_DEMO](https://github.com/ialcaidef/Exploring-the-Microsoft-Azure-Portal/blob/main/01.png)
+
+![20487D_MOD01_DEMO](https://github.com/ialcaidef/Exploring-the-Microsoft-Azure-Portal/blob/main/02.png)
 
 7. In the **App Name** box, enter the web app name **WebAppDemo**_YourInitials_ (Replace _YourInitials_ with your initials).  
 
    >**Note**: The app name you entered is going to be part of the URL that you will use when connecting to the web application.
-   
+![20487D_MOD01_DEMO](https://github.com/ialcaidef/Exploring-the-Microsoft-Azure-Portal/blob/main/03.png)   
 8. In the **Resource Group** box, select **Create new**.
+
 9. Click **App Service Plan/Location**,  and then click **Create new**. 
 10. In **App Service Plan**, enter **BlueYonder**.
 11. In **Location**, select the location that is closest to you.
 12. Click **Ok.**
 13. Click **Create**, and then wait until the web app is deployed.
+
+![20487D_MOD01_DEMO](https://github.com/ialcaidef/Exploring-the-Microsoft-Azure-Portal/blob/main/04.png) 
+
 14. In the **All Resources** pane, click the web app that you created in the previous step (the one that is named **WebAppDemo** _YourInitials_).  
 
    >**Note**: Currently the web app has no content.
