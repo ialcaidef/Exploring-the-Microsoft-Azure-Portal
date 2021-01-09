@@ -26,7 +26,7 @@
 5. Review the items in the pane on the left side of the screen and understand the different services that you can manage with the Azure portal.
 6. On the left side of the screen, click **+ Create a resource**, and then click **Web App**. The **App Name** and **Resource Group** boxes and **App Service Plan/Location** appear on the right side of the screen.
 
-https://github.com/ialcaidef/Exploring-the-Microsoft-Azure-Portal/blob/main/01.png
+![20487D_MOD01_DEMO](https://github.com/ialcaidef/Exploring-the-Microsoft-Azure-Portal/blob/main/01.png)
 
 7. In the **App Name** box, enter the web app name **WebAppDemo**_YourInitials_ (Replace _YourInitials_ with your initials).  
 
